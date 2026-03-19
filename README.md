@@ -39,12 +39,14 @@ My goal is to build real-world applications and land my first developer role by 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenath07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-## 👀 Profile Views
+
+👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kenath07&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-## �🔗 Social Links
+
+🔗 Social Links
 
 - **LinkedIn**: [www.linkedin.com/in/kenathkenady7](https://www.linkedin.com/in/kenathkenady7)
 - **Email**: [kenathkenady@gmail.com](mailto:kenathkenady@gmail.com)
