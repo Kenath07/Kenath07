@@ -10,6 +10,7 @@ My goal is to build real-world applications and land my first developer role by 
 - 🔭 Currently working on: My GitHub profile & portfolio projects
 - 🌱 Learning: HTML, CSS, JavaScript, Java
 - 💬 Ask me about: Solving real-world problems
+- 🎓 Education: Year 2 Semester 2 Undergraduate Software Engineering Student @ SLIIT
 - 📫 Reach me at: kenathkenady@gmail.com
 
 ## �️ Tech Stack
